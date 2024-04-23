@@ -36,7 +36,8 @@
 }
 
 .mapa p{
-	margin: 0 0 1em;
+	margin: 0 0 2em;
+	text-align: center;
 }
 
 .video{
@@ -74,7 +75,7 @@
 }
 
 .conteudo-beneficios{
-	width: 640px;
+	width: 740px;
 	margin: 0 auto;
 }
 
@@ -83,7 +84,7 @@
 }
 
 .imagem-beneficios{
-	width: 60%;
+	width: 50%;
 	opacity: 1;
 	transition: 400ms;
 	box-shadow: 10px 10px 10px 0 var(--corimgbeneficios);
